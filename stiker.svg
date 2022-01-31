@@ -1,0 +1,1544 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="stiker.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="620.13265"
+     inkscape:cy="371.93817"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3475"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-bbox="true"
+     showguides="false"
+     inkscape:snap-text-baseline="false" />
+  <defs
+     id="defs2">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path15" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path18" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path20" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path22" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1">
+      <path
+         d="M 94.875072,0.63996676 L 113.11412,0.63996676 L 113.11412,18.559036 L 94.875072,18.559036 z"
+         id="path64" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2">
+      <path
+         d="M 113.75409,0.63996676 L 131.99314,0.63996676 L 131.99314,18.559036 L 113.75409,18.559036 z"
+         id="path67" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-4">
+      <path
+         d="M 94.875072,0.63996676 L 115.19402,0.63996676 L 115.19402,16.959119 L 94.875072,16.959119 z"
+         id="path246" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-4">
+      <path
+         d="M 115.99398,0.63996676 L 134.23303,0.63996676 L 134.23303,16.959119 L 115.99398,16.959119 z"
+         id="path249" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-3"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-0">
+      <path
+         d="M 94.875072,0.63996676 L 122.55363,0.63996676 L 122.55363,16.959119 L 94.875072,16.959119 z"
+         id="path354" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-3">
+      <path
+         d="M 123.1936,0.63996676 L 148.3123,0.63996676 L 148.3123,16.959119 L 123.1936,16.959119 z"
+         id="path357" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-6"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-02">
+      <path
+         d="M 94.875072,0.63996676 L 121.75368,0.63996676 L 121.75368,16.959119 L 94.875072,16.959119 z"
+         id="path557" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-8">
+      <path
+         d="M 122.39364,0.63996676 L 146.87237,0.63996676 L 146.87237,16.959119 L 122.39364,16.959119 z"
+         id="path560" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-5"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-30"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-53"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-4"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-1"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-18"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-44"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-5">
+      <path
+         d="M 94.875072,0.63996676 L 121.75368,0.63996676 L 121.75368,16.959119 L 94.875072,16.959119 z"
+         id="path8275" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-2">
+      <path
+         d="M 122.39364,0.63996676 L 146.87237,0.63996676 L 146.87237,16.959119 L 122.39364,16.959119 z"
+         id="path8278" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-15"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <marker
+       id="DistanceX-5"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path2803" />
+    </marker>
+    <pattern
+       id="Hatch-9"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2806" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2808" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2810" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-1" />
+    <symbol
+       id="*PAPER_SPACE-7" />
+    <marker
+       id="DistanceX-8"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path185" />
+    </marker>
+    <pattern
+       id="Hatch-3"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path188" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path190" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path192" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-9" />
+    <symbol
+       id="*PAPER_SPACE-70" />
+    <marker
+       id="DistanceX-2"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path1503" />
+    </marker>
+    <pattern
+       id="Hatch-4"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1506" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1508" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1510" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-6" />
+    <symbol
+       id="*PAPER_SPACE-5" />
+    <marker
+       id="DistanceX-26"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path2035" />
+    </marker>
+    <pattern
+       id="Hatch-92"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2038" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2040" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2042" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-97" />
+    <symbol
+       id="*PAPER_SPACE-4" />
+    <marker
+       id="DistanceX-7"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path2319" />
+    </marker>
+    <pattern
+       id="Hatch-8"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2322" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2324" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2326" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-0" />
+    <symbol
+       id="*PAPER_SPACE-3" />
+    <marker
+       id="DistanceX-83"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path2758" />
+    </marker>
+    <pattern
+       id="Hatch-34"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2761" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2763" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2765" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-65" />
+    <symbol
+       id="*PAPER_SPACE-2" />
+    <marker
+       id="DistanceX-9"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path3333" />
+    </marker>
+    <pattern
+       id="Hatch-98"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path3336" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path3338" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path3340" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-650" />
+    <symbol
+       id="*PAPER_SPACE-56" />
+    <image
+       id="image1311147"
+       width="767"
+       height="1097"
+       xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYHBwcGBwcICQsJCAgKCAcHCg0KCgsMDAwMBwkODw0MDgsMDAz/2wBDAQICAgMDAwYDAwYMCAcIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAARCARJAv8DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9/KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo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juk30gn9zPB4pybFYTJ8ViqOOr80KcpL3obpNraCf3NHo+jvdS6RatfJFHetChuEiOUWTaNwX2znFWaKK+2jHlile5+iwjyxUb3t3CiiiqKCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACvL/2wf8AkiF1/wBftn/6UJXqFeX/ALYP/JELr/r9s/8A0oSvn+LP+RLi/wDr3P8A9JZ8txv/AMk9jf8Ar1U/9JZ6hRRRX0B9SFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFea/H7Xb++1nwt4O0+5ewbxhcTR3N1G22WK3hQPKqZGNzA4z+HfjgzPHxweHlXkr6pJLrKTUYr5yaV+lzzM4zOOAwksTKLlZxSS3lKUlCMfK8pJX2V7noFvrlld3jW8V5ay3CgkxJKrOADgnAOetWq8xvv2Q/BEugra2WnTaZeQ/PBqFvcyC6glHSQMW5OecHj2GBjV/Z68c33jn4ebtVdZdV0m7m0y8mVdqzyQtt8zHbcu0npzngdK4cJmWKWJjhMfTjCU03Fxk5J8tuZO8YtNXTWjTV9rWPNwObY1YyOCzOlGEpxcoOE3OL5bc0XeEGmuZNaNNX1TVjuaKKK90+lCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKbLKsEZd2VEXksxwBTq8f1Lw6Pj78aPEGla3JM3hjwmlvEunRzNGl9cSL5nmSlcEqu3AXOM4Oeory80zCeGUIUYc9SpLlir2V7OTbdnZJRbejfRJtnjZzmk8HGnToQ56tWXLCLfKr8spNylZ2ioxbbSb0sk2z1jTtXtNYiZ7S6t7pFO1mhkDgH0yDVivFvi18LNN+BXhq48aeDoP7I1HRzHJcW6SubfUYN6h45FLccHOR3X1wR7Fpl+mq6bb3UefLuYllXPowBH86zy7Ma1StPCYuCjUglL3XzRcZNpNNqL3i001p5poxyrNcRVxFTA46moVoKMvdk5RlGTkk02oveLTTWmm6aZPXl/7YP8AyRC6/wCv2z/9KEr1CvL/ANsH/kiF1/1+2f8A6UJXPxZ/yJcX/wBe5/8ApLOXjf8A5J7G/wDXqp/6Sz1CiiivoD6kKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK4z4yfDG48fWemX2l3MVj4h8PXQvdOnlUtEWxhopAOdjjAOOeB7g9nRXLjcFSxdCWHrK8X8no7pp9Gmk0+jVzizHL6GOw8sLiFeMvk007pprVNNJprZpM8U0/wCLHxS8T+LNS8PR+DtP0meGJR/aM8srWsBJAMitjEuQcqqkHg5zgivSvhZ8PYPhf4Is9Hhme6eHdJPcOAHuZnJZ3P1YnHXAwMnrXQ0V5uW5LLD1XXxFaVaeqTlZcsW72Sikuiu7XdlstDyMo4flhKzxOKxE69T3lGU+VcsZNPlSiororytd2Wy0CiiivcPpAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACvNPHngzxH4M8e3fjHwjFbanJqFvHDqukTyGL7YIwQkkb84dVOMYwQT1PFel0VwZjl8MXTUJNxcXeMlo4ys1dbrZtNNNNNpppnmZrldPHUlCcnGUXzRlF2lGSTV1e62bTTTTTaaaZ4XoDeOP2nfD8Vj4l0ePwp4babde7d63WoBHBWJUflFyPmY9ccV7nHGsSBVUKqjAAGAB6UtFc+U5T9Ti5VakqtSSSlOVrtK9lZWSSu7JdW2227nJkeR/UIudarKtWkkpVJ2u1G9kkkkkrtpJbttttthXl/wC2D/yRC6/6/bP/ANKEr1CvL/2wf+SIXX/X7Z/+lCVzcWf8iXF/9e5/+ks5ON/+Sexv/Xqp/wCks9Qooor6A+pCiiigAooooAKKKKACiiigAooooAKKKKACiiig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524/GvoqiuPMOHcZi8NUws8dO000/dpbNW6QT+5r1OHNOFMfjsHVwdTManLUi4v3KOzVntTT+5p+ZW0W+l1PRrS5nt3s5riFJZIHOWgZlBKH3BOPwqzRRX1UE1FJu77n2sItRSk7vv3CiiiqKCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA/9k=" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g30386"
+       transform="translate(28.579604,9.6847826)" />
+    <g
+       clip-path="url(#clipEmfPath2-3)"
+       id="g385"
+       transform="matrix(0.26458333,0,0,0.26458333,100.1203,127.71434)" />
+    <g
+       inkscape:label="0"
+       id="g199"
+       transform="matrix(0.26458333,0,0,0.26458333,120.94428,-204.28849)" />
+    <g
+       inkscape:label="none"
+       id="g201"
+       transform="matrix(0.26458333,0,0,0.26458333,120.94428,-204.28849)" />
+    <g
+       inkscape:label="0"
+       id="g1517"
+       transform="matrix(0.26458333,0,0,0.26458333,111.5131,-204.73121)" />
+    <g
+       inkscape:label="none"
+       id="g1519"
+       transform="matrix(0.26458333,0,0,0.26458333,111.5131,-204.73121)" />
+    <g
+       inkscape:label="0"
+       id="g2772"
+       transform="matrix(0.26458333,0,0,0.26458333,216.77239,-373.62169)" />
+    <g
+       inkscape:label="none"
+       id="g2774"
+       transform="matrix(0.26458333,0,0,0.26458333,216.77239,-373.62169)" />
+    <g
+       inkscape:label="0"
+       id="g3347"
+       transform="matrix(0.26458333,0,0,0.26458333,74.023736,-222.07987)" />
+    <g
+       inkscape:label="none"
+       id="g3349"
+       transform="matrix(0.26458333,0,0,0.26458333,74.023736,-222.07987)" />
+    <g
+       inkscape:label="Fusion"
+       id="g3475"
+       transform="matrix(0.26458333,0,0,0.26458333,74.023736,-222.07987)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.75px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="391.77969"
+         y="1433.0697"
+         id="text425"><tspan
+           sodipodi:role="line"
+           x="391.77969"
+           y="1433.0697"
+           id="tspan423"
+           style="stroke-width:0.999999"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.75px;font-family:Calibri;fill:#000000;stroke-width:0.999999"
+             id="tspan421"> </tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.75px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="345.68021"
+         y="1411.2577"
+         id="text127"><tspan
+           sodipodi:role="line"
+           x="345.68021"
+           y="1411.2577"
+           id="tspan125"
+           style="stroke-width:0.999999"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.75px;font-family:Calibri;fill:#000000;stroke-width:0.999999"
+             id="tspan123"> </tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="141.65044"
+         y="1378.738"
+         id="text1741"><tspan
+           sodipodi:role="line"
+           id="tspan1739"
+           style="font-size:12px;fill:#000000;stroke-width:0.999999"
+           x="141.65044"
+           y="1378.738">+</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="163.90042"
+         y="1380.113"
+         id="text5157"><tspan
+           sodipodi:role="line"
+           id="tspan5155"
+           style="font-size:13.3333px;fill:#000000;stroke-width:0.999999"
+           x="163.90042"
+           y="1380.113">-</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="187.21292"
+         y="1379.113"
+         id="text7561"><tspan
+           sodipodi:role="line"
+           id="tspan7559"
+           style="font-size:12px;fill:#000000;stroke-width:0.999999"
+           x="187.21292"
+           y="1379.113">+</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="209.46295"
+         y="1380.488"
+         id="text7565"><tspan
+           sodipodi:role="line"
+           id="tspan7563"
+           style="font-size:13.3333px;fill:#000000;stroke-width:0.999999"
+           x="209.46295"
+           y="1380.488">-</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="252.42088"
+         y="1380.4639"
+         id="text7569"><tspan
+           sodipodi:role="line"
+           id="tspan7567"
+           style="font-size:12px;fill:#000000;stroke-width:0.999999"
+           x="252.42088"
+           y="1380.4639">+</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="234.01233"
+         y="1380.6014"
+         id="text7573"><tspan
+           sodipodi:role="line"
+           id="tspan7571"
+           style="font-size:13.3333px;fill:#000000;stroke-width:0.999999"
+           x="234.01233"
+           y="1380.6014">-</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="295.8161"
+         y="1380.9489"
+         id="text7577"><tspan
+           sodipodi:role="line"
+           id="tspan7575"
+           style="font-size:12px;fill:#000000;stroke-width:0.999999"
+           x="295.8161"
+           y="1380.9489">+</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="278.94119"
+         y="1381.4487"
+         id="text7581"><tspan
+           sodipodi:role="line"
+           id="tspan7579"
+           style="font-size:13.3333px;fill:#000000;stroke-width:0.999999"
+           x="278.94119"
+           y="1381.4487">-</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="341.38654"
+         y="1381.0828"
+         id="text7585"><tspan
+           sodipodi:role="line"
+           id="tspan7583"
+           style="font-size:12px;fill:#000000;stroke-width:0.999999"
+           x="341.38654"
+           y="1381.0828">+</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="323.68512"
+         y="1381.397"
+         id="text7589"><tspan
+           sodipodi:role="line"
+           id="tspan7587"
+           style="font-size:13.3333px;fill:#000000;stroke-width:0.999999"
+           x="323.68512"
+           y="1381.397">-</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="386.69458"
+         y="1380.7443"
+         id="text7593"><tspan
+           sodipodi:role="line"
+           id="tspan7591"
+           style="font-size:12px;fill:#000000;stroke-width:0.999999"
+           x="386.69458"
+           y="1380.7443">+</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="367.84415"
+         y="1381.4121"
+         id="text7597"><tspan
+           sodipodi:role="line"
+           id="tspan7595"
+           style="font-size:13.3333px;fill:#000000;stroke-width:0.999999"
+           x="367.84415"
+           y="1381.4121">-</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.33332px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="146.27254"
+         y="1364.6604"
+         id="text8496"><tspan
+           sodipodi:role="line"
+           id="tspan8494"
+           style="font-size:9.33332px;fill:#000000;stroke-width:0.999999"
+           x="146.27254"
+           y="1364.6604">PWR</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.33332px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="182.37563"
+         y="1364.6593"
+         id="text10560"><tspan
+           sodipodi:role="line"
+           id="tspan10558"
+           style="font-size:9.33332px;fill:#000000;stroke-width:0.999999"
+           x="182.37563"
+           y="1364.6593">DATA IN</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.33332px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="233.26622"
+         y="1364.8005"
+         id="text20050"><tspan
+           sodipodi:role="line"
+           id="tspan20048"
+           style="font-size:9.33332px;fill:#000000;stroke-width:0.999999"
+           x="233.26622"
+           y="1364.8005">OUT 1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.33332px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="278.77289"
+         y="1364.8005"
+         id="text20054"><tspan
+           sodipodi:role="line"
+           id="tspan20052"
+           style="font-size:9.33332px;fill:#000000;stroke-width:0.999999"
+           x="278.77289"
+           y="1364.8005">OUT 2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.33332px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="321.64352"
+         y="1364.8005"
+         id="text20058"><tspan
+           sodipodi:role="line"
+           id="tspan20056"
+           style="font-size:9.33332px;fill:#000000;stroke-width:0.999999"
+           x="321.64352"
+           y="1364.8005">OUT 3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.33332px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="367.63766"
+         y="1364.8005"
+         id="text20062"><tspan
+           sodipodi:role="line"
+           id="tspan20060"
+           style="font-size:9.33332px;fill:#000000;stroke-width:0.999999"
+           x="367.63766"
+           y="1364.8005">OUT 4</tspan></text>
+      <g
+         id="Shape"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape_nwe0000"
+           d="M -45.26,-53.8129 H 54.7398"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6746">b'Shape'</title>
+      </g>
+      <g
+         id="Shape001"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape001_nwe0000"
+           d="m 54.7398,-53.8129 v 68"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6750">b'Shape001'</title>
+      </g>
+      <g
+         id="Shape002"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape002_nwe0000"
+           d="m 54.74,-53.8129 -2e-4,68"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6754">b'Shape002'</title>
+      </g>
+      <g
+         id="Shape003"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape003_nwe0000"
+           d="m 54.7398,14.1871 h -100"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6758">b'Shape003'</title>
+      </g>
+      <g
+         id="Shape004"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape004_nwe0000"
+           d="M -45.2602,14.19 V -53.8129"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6762">b'Shape004'</title>
+      </g>
+      <g
+         id="g6768"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape005"
+           d="m 47.7498,-45.3129 a 1.5,1.5 -89.999998 0 0 0,3 1.5,1.5 -89.999998 0 0 0,-3"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6766">b'Shape005'</title>
+      </g>
+      <g
+         id="Shape006"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape006_nwe0000"
+           d="m 39.8398,-47.8129 v -5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6771">b'Shape006'</title>
+      </g>
+      <g
+         id="Shape007"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape007_nwe0000"
+           d="m 39.8398,-52.8129 h -4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6775">b'Shape007'</title>
+      </g>
+      <g
+         id="Shape008"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape008_nwe0000"
+           d="m 35.0898,-52.8129 v 5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6779">b'Shape008'</title>
+      </g>
+      <g
+         id="Shape009"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape009_nwe0000"
+           d="m 35.0898,-47.8129 h 4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6783">b'Shape009'</title>
+      </g>
+      <g
+         id="Shape010"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape010_nwe0000"
+           d="m 34.5898,-47.8129 v -5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6787">b'Shape010'</title>
+      </g>
+      <g
+         id="Shape011"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape011_nwe0000"
+           d="m 34.5898,-52.8129 h -4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6791">b'Shape011'</title>
+      </g>
+      <g
+         id="Shape012"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape012_nwe0000"
+           d="m 29.8398,-52.8129 v 5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6795">b'Shape012'</title>
+      </g>
+      <g
+         id="Shape013"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape013_nwe0000"
+           d="m 29.8398,-47.8129 h 4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6799">b'Shape013'</title>
+      </g>
+      <g
+         id="Shape014"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape014_nwe0000"
+           d="m 27.9398,-47.8129 v -5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6803">b'Shape014'</title>
+      </g>
+      <g
+         id="Shape015"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape015_nwe0000"
+           d="m 27.9398,-52.8129 h -4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6807">b'Shape015'</title>
+      </g>
+      <g
+         id="Shape016"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape016_nwe0000"
+           d="m 23.1898,-52.8129 v 5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6811">b'Shape016'</title>
+      </g>
+      <g
+         id="Shape017"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape017_nwe0000"
+           d="m 23.1898,-47.8129 h 4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6815">b'Shape017'</title>
+      </g>
+      <g
+         id="Shape018"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape018_nwe0000"
+           d="m 22.6898,-47.8129 v -5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6819">b'Shape018'</title>
+      </g>
+      <g
+         id="Shape019"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape019_nwe0000"
+           d="m 22.6898,-52.8129 h -4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6823">b'Shape019'</title>
+      </g>
+      <g
+         id="Shape020"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape020_nwe0000"
+           d="m 17.9398,-52.8129 v 5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6827">b'Shape020'</title>
+      </g>
+      <g
+         id="Shape021"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape021_nwe0000"
+           d="m 17.9398,-47.8129 h 4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6831">b'Shape021'</title>
+      </g>
+      <g
+         id="Shape022"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape022_nwe0000"
+           d="m 16.0298,-47.8129 v -5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6835">b'Shape022'</title>
+      </g>
+      <g
+         id="Shape023"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape023_nwe0000"
+           d="m 16.0298,-52.8129 h -4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6839">b'Shape023'</title>
+      </g>
+      <g
+         id="Shape024"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape024_nwe0000"
+           d="m 11.2798,-52.8129 v 5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6843">b'Shape024'</title>
+      </g>
+      <g
+         id="Shape025"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape025_nwe0000"
+           d="m 11.2798,-47.8129 h 4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6847">b'Shape025'</title>
+      </g>
+      <g
+         id="Shape026"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape026_nwe0000"
+           d="m 10.7798,-47.8129 v -5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6851">b'Shape026'</title>
+      </g>
+      <g
+         id="Shape027"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape027_nwe0000"
+           d="m 10.7798,-52.8129 h -4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6855">b'Shape027'</title>
+      </g>
+      <g
+         id="Shape028"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape028_nwe0000"
+           d="m 6.0298,-52.8129 v 5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6859">b'Shape028'</title>
+      </g>
+      <g
+         id="Shape029"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape029_nwe0000"
+           d="m 6.0298,-47.8129 h 4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6863">b'Shape029'</title>
+      </g>
+      <g
+         id="g6869"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape030"
+           d="m 47.7498,2.68714 a 1.5,1.5 -89.999998 0 0 0,3 1.5,1.5 -89.999998 0 0 0,-3"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6867">b'Shape030'</title>
+      </g>
+      <g
+         id="Shape031"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape031_nwe0000"
+           d="M 40.74,-5.96286 V -33.6629"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6872">b'Shape031'</title>
+      </g>
+      <g
+         id="Shape032"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape032_nwe0000"
+           d="m 40.74,-33.6629 -72,0.0029"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6876">b'Shape032'</title>
+      </g>
+      <g
+         id="Shape033"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape033_nwe0000"
+           d="m -31.26,-33.66 v 27.7"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6880">b'Shape033'</title>
+      </g>
+      <g
+         id="Shape034"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape034_nwe0000"
+           d="m -31.26,-5.96 72,-0.00286"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6884">b'Shape034'</title>
+      </g>
+      <g
+         id="Shape035"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape035_nwe0000"
+           d="m 4.1298,-47.8129 v -5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6888">b'Shape035'</title>
+      </g>
+      <g
+         id="Shape036"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape036_nwe0000"
+           d="M 4.1298,-52.8129 H -0.620204"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6892">b'Shape036'</title>
+      </g>
+      <g
+         id="Shape037"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape037_nwe0000"
+           d="m -0.620204,-52.8129 v 5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6896">b'Shape037'</title>
+      </g>
+      <g
+         id="Shape038"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape038_nwe0000"
+           d="M -0.620204,-47.8129 H 4.1298"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6900">b'Shape038'</title>
+      </g>
+      <g
+         id="Shape039"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape039_nwe0000"
+           d="m -1.1202,-47.8129 v -5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6904">b'Shape039'</title>
+      </g>
+      <g
+         id="Shape040"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape040_nwe0000"
+           d="m -1.1202,-52.8129 h -4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6908">b'Shape040'</title>
+      </g>
+      <g
+         id="Shape041"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape041_nwe0000"
+           d="m -5.8702,-52.8129 v 5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6912">b'Shape041'</title>
+      </g>
+      <g
+         id="Shape042"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape042_nwe0000"
+           d="m -5.8702,-47.8129 h 4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6916">b'Shape042'</title>
+      </g>
+      <g
+         id="Shape043"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape043_nwe0000"
+           d="m -7.7702,-47.8129 v -5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6920">b'Shape043'</title>
+      </g>
+      <g
+         id="Shape044"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape044_nwe0000"
+           d="m -7.7702,-52.8129 h -4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6924">b'Shape044'</title>
+      </g>
+      <g
+         id="Shape045"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape045_nwe0000"
+           d="m -12.5202,-52.8129 v 5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6928">b'Shape045'</title>
+      </g>
+      <g
+         id="Shape046"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape046_nwe0000"
+           d="m -12.5202,-47.8129 h 4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6932">b'Shape046'</title>
+      </g>
+      <g
+         id="Shape047"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape047_nwe0000"
+           d="m -13.0202,-47.8129 v -5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6936">b'Shape047'</title>
+      </g>
+      <g
+         id="Shape048"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape048_nwe0000"
+           d="m -13.0202,-52.8129 h -4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6940">b'Shape048'</title>
+      </g>
+      <g
+         id="Shape049"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape049_nwe0000"
+           d="m -17.7702,-52.8129 v 5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6944">b'Shape049'</title>
+      </g>
+      <g
+         id="Shape050"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape050_nwe0000"
+           d="m -17.7702,-47.8129 h 4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6948">b'Shape050'</title>
+      </g>
+      <g
+         id="Shape051"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape051_nwe0000"
+           d="m -19.6802,-47.8129 v -5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6952">b'Shape051'</title>
+      </g>
+      <g
+         id="Shape052"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape052_nwe0000"
+           d="m -19.6802,-52.8129 h -4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6956">b'Shape052'</title>
+      </g>
+      <g
+         id="Shape053"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape053_nwe0000"
+           d="m -24.4302,-52.8129 v 5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6960">b'Shape053'</title>
+      </g>
+      <g
+         id="Shape054"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape054_nwe0000"
+           d="m -24.4302,-47.8129 h 4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6964">b'Shape054'</title>
+      </g>
+      <g
+         id="Shape055"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape055_nwe0000"
+           d="m -24.9302,-47.8129 v -5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6968">b'Shape055'</title>
+      </g>
+      <g
+         id="Shape056"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape056_nwe0000"
+           d="m -24.9302,-52.8129 h -4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6972">b'Shape056'</title>
+      </g>
+      <g
+         id="Shape057"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape057_nwe0000"
+           d="m -29.6802,-52.8129 v 5"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6976">b'Shape057'</title>
+      </g>
+      <g
+         id="Shape058"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape058_nwe0000"
+           d="m -29.6802,-47.8129 h 4.75"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6980">b'Shape058'</title>
+      </g>
+      <g
+         id="g6986"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape059"
+           d="m -38.2702,-45.3129 a 1.5,1.5 -89.999998 0 0 0,3 1.5,1.5 -89.999998 0 0 0,-3"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6984">b'Shape059'</title>
+      </g>
+      <g
+         id="g6991"
+         transform="matrix(3.7663717,0,0,-3.7601739,250.32509,1188.2648)">
+        <path
+           id="Shape060"
+           d="m -38.2702,2.68714 a 1.5,1.5 -89.999998 0 0 0,3 1.5,1.5 -89.999998 0 0 0,-3"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title6989">b'Shape060'</title>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="150.33795"
+         y="1201.4257"
+         id="text8814"><tspan
+           sodipodi:role="line"
+           x="150.33795"
+           y="1201.4257"
+           id="tspan8816"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">DIGITAL REPEATER</tspan></text>
+    </g>
+  </g>
+</svg>
